@@ -19,17 +19,17 @@ body {
     left: 0;
     width: 100%;
     z-index: 9999;    
-    background-color: darkred;
+    background-color: maroon;
     box-shadow: 2px 2px 2px gray;
 }
 
 h1 {
-    color: maroon;
+    color: midnightblue;
     font: bold 50px sans-serif;
 }
 
 h2 {
-    color: midnightblue;
+    color: maroon;
     font-family: sans-serif;
 }
 
