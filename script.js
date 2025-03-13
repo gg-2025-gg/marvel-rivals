@@ -1,6 +1,6 @@
 const Questions = [
     {
-        q: "Fill in the blank:what is my favorite chartcter _____.",
+        q: "Fill in the blank:What is my favorite chartcter _____.",
         a: [{text: "iorn fist.", isCorrect: false},
             {text: "cloak and dagger.", isCorrect: false},
             {text: "loki.", isCorrect: true},
@@ -9,26 +9,26 @@ const Questions = [
     },
     {
         q: "Fill in the blank: What is my least favorite charter _____.",
-        a: [{text: "red, with whitish fur.", isCorrect: false},
-            {text: "whitish-gray fur.", isCorrect: true},
-            {text: "black stripes, with orange fur.", isCorrect: false},
-            {text: "white dots with black fur.", isCorrect: false},
+        a: [{text: "black panther", isCorrect: false},
+            {text: "Iron Fist.", isCorrect: true},
+            {text: "docter strange.", isCorrect: false},
+            {text: "black widow.", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards use their tails for _____.",
-        a: [{text: "balance.", isCorrect: true},
-            {text: "killing their prey.", isCorrect: false},
-            {text: "grabbing objects.", isCorrect: false},
-            {text: "swinging.", isCorrect: false},
+        q: "Fill in the blank: How many characters are in Marvel Rivals _____.",
+        a: [{text: "38.", isCorrect: true},
+            {text: "38.", isCorrect: false},
+            {text: "44", isCorrect: false},
+            {text: "38943.", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards eat _____.",
-        a: [{text: "frogs.", isCorrect: false},
-            {text: "fish.", isCorrect: false},
-            {text: "lions.", isCorrect: false},
-            {text: "deer.", isCorrect: true},
+        q: "Fill in the blank: What is the peak player count _____.",
+        a: [{text: "55555.", isCorrect: false},
+            {text: "768394.", isCorrect: false},
+            {text: "4426900 .", isCorrect: false},
+            {text: "644269 ", isCorrect: true},
            ]
     },
     
