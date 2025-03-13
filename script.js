@@ -8,7 +8,7 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards have _____.",
+        q: "Fill in the blank: What is my least favorite charter _____.",
         a: [{text: "red, with whitish fur.", isCorrect: false},
             {text: "whitish-gray fur.", isCorrect: true},
             {text: "black stripes, with orange fur.", isCorrect: false},
