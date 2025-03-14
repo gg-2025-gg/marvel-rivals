@@ -31,7 +31,14 @@ const Questions = [
             {text: "644269 ", isCorrect: true},
            ]
     },
-    
+    {
+        q: "Fill in the blank: When did marvel rivals come out  _____.",
+        a: [{text: " December 10 2023.", isCorrect: false},
+            {text: " october 5 2025.", isCorrect: false},
+            {text: "  December 6 2026 .", isCorrect: false},
+            {text: "  December 6 2024 ", isCorrect: true},
+           ]
+    },
     // add more questions here....
 ]; 
 
