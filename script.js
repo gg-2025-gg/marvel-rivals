@@ -18,7 +18,7 @@ const Questions = [
     {
         q: "Fill in the blank: How many characters are in Marvel Rivals _____.",
         a: [{text: "38.", isCorrect: true},
-            {text: "38.", isCorrect: false},
+            {text: "399.", isCorrect: false},
             {text: "44", isCorrect: false},
             {text: "38943.", isCorrect: false},
            ]
